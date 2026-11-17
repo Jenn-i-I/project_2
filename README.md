@@ -24,9 +24,9 @@ List at least three features you plan to include in your application:
 
 ## Web links
 
-- **Published application:** [Add your GitHub Pages URL here](https://jenn-i-i.github.io/project_2/)
-- **GitHub repository:** [Add your repository URL here](https://github.com/Jenn-i-I/project_2.git)
-- **Project video presentation:** [Add your video URL here](https://video.laurea.fi/media/Project2+esittely+video/0_hkkxnond)
+- **Published application:** [https://jenn-i-i.github.io/project_2/]
+- **GitHub repository:** [https://github.com/Jenn-i-I/project_2.git]
+- **Project video presentation:** [https://video.laurea.fi/media/Project2+esittely+video/0_hkkxnond]
 
 ## About the application
 
